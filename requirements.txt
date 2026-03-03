@@ -1,0 +1,9 @@
+ollama
+faster-whisper
+pyttsx3
+pyaudio
+numpy
+sentence-transformers
+pypdf
+docx2txt
+streamlit
